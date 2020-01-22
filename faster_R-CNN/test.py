@@ -1,3 +1,8 @@
+"""
+playground for understanding pytorch, numpy, and so on..
+"""
+
+
 import numpy as np
 import torch
 
