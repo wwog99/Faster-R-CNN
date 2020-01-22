@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-
+####temporary model(must be changed)####
 class Faster_rcnn(nn.Module):
     def __init__(self):
         super(Faster_rcnn, self).__init__()
